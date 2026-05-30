@@ -21,7 +21,6 @@ Atualmente estou construindo meu portfólio, desenvolvendo projetos próprios e 
 * Python
 * Git
 * GitHub
-* SQL
 * Inteligência Artificial
 * Automação
 
