@@ -1,7 +1,9 @@
 # Olá, eu sou Samuel Escoval 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+
 💻 Estudante de **Engenharia de Computação — UNIVESP**
+
 🚀 Construindo portfólio com projetos acadêmicos, desafios práticos e estudos aplicados em tecnologia.
 
 ---
