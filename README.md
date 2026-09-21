@@ -18,6 +18,19 @@ Minha ideia é transformar estudo em prática: aprender, aplicar, documentar e e
 
 ---
 
+## Tecnologias e ferramentas
+
+* Python
+* JavaScript
+* Git
+* GitHub
+* Markdown
+* VS Code
+* Linux
+* Conceitos iniciais de IA e automação
+
+---
+
 ## Atualmente estudando
 
 * Lógica de programação
@@ -34,42 +47,31 @@ Minha ideia é transformar estudo em prática: aprender, aplicar, documentar e e
 
 ## Projetos em destaque
 
-### Projetos acadêmicos
+| Projeto | Resumo |
+| --- | --- |
+| [SGLB — Sistema de Gestão de Licitações e Operações de Buffet](https://github.com/samuelescoval-tech/sglb-buffet-management-system) | Projeto acadêmico de prototipagem voltado para organização de processos, documentação e estruturação de solução. |
+| [Karamu — App Cardápio IA](https://github.com/samuelescoval-tech/app-cardapio-ia) | Aplicação web para planejar eventos, gerar cardápios com IA, calcular compras e exportar PDF. |
 
-* **Atividades de Programação em Python — Cruzeiro do Sul**
-  Projetos desenvolvidos durante a disciplina de Programação de Computadores, com foco em lógica, estruturas de dados, funções, orientação a objetos e testes unitários.
+## Estudos e investigações técnicas
 
-* **SGLB — Sistema de Gestão de Licitações e Operações de Buffet**
-  Projeto acadêmico de prototipagem voltado para organização de processos, documentação e estruturação de solução.
-
-### Desafios DIO
-
-* **RPG do Herói**
-  Desafio de lógica de programação desenvolvido em JavaScript.
-
-* **Calculadora de Partidas Rankeadas**
-  Desafio com foco em funções, estruturas condicionais e cálculo de ranking.
-
-* **Classe Herói em JavaScript**
-  Prática com classes, objetos, construtor, métodos e estruturas de decisão.
-
-### Estudos e investigações técnicas
-
-* **Baixa Latência em Streaming Esportivo**
+* [**Baixa Latência em Streaming Esportivo**](https://github.com/samuelescoval-tech/baixa-latencia-streaming-esportivo)  
   Estudo técnico usando lógica de investigação e abordagem inspirada em melhoria contínua para analisar atraso em transmissões ao vivo.
 
----
+## Formação e projetos acadêmicos
 
-## Tecnologias e ferramentas
+* [**Atividades de Programação em Python — Cruzeiro do Sul**](https://github.com/samuelescoval-tech/cruzeiro-programacao-python)  
+  Projetos desenvolvidos durante a disciplina de Programação de Computadores, com foco em lógica, estruturas de dados, funções, orientação a objetos e testes unitários.
 
-* Python
-* JavaScript
-* Git
-* GitHub
-* Markdown
-* VS Code
-* Linux
-* Conceitos iniciais de IA e automação
+## Desafios DIO
+
+* [**RPG do Herói**](https://github.com/samuelescoval-tech/Dio-rpg-do-heroi)  
+  Desafio de lógica de programação desenvolvido em JavaScript.
+* [**Calculadora de Partidas Rankeadas**](https://github.com/samuelescoval-tech/dio-calculadora-partidas-rankeadas-Desafio2-logica-programacao)  
+  Desafio com foco em funções, estruturas condicionais e cálculo de ranking.
+* [**Classe Herói em JavaScript**](https://github.com/samuelescoval-tech/dio-desafio-classe-heroi-js)  
+  Prática com classes, objetos, construtor, métodos e estruturas de decisão.
+* [**GitHub e Markdown**](https://github.com/samuelescoval-tech/desafio-github-markedown)  
+  Prática de Markdown e HTML em uma apresentação com tema Pokémon.
 
 ---
 
