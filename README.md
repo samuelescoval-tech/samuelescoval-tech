@@ -6,6 +6,28 @@
 
 🚀 Construindo portfólio com projetos acadêmicos, desafios práticos e estudos aplicados em tecnologia.
 
+## Estudos e atividades
+
+| [💻 DIO](https://github.com/samuelescoval-tech/samuelescoval-tech/blob/main/dio/README.md) | [🎓 Cruzeiro do Sul](https://github.com/samuelescoval-tech/cruzeiro-do-sul) | [🎓 UNIVESP](https://github.com/samuelescoval-tech/samuelescoval-tech/blob/main/univesp/README.md) |
+| :---: | :---: | :---: |
+| Desafios e atividades da DIO | Disciplinas e atividades de ADS | Atividades de Engenharia de Computação |
+
+---
+
+## Projetos em destaque
+
+| Projeto | Resumo |
+| --- | --- |
+| [SGLB — Sistema de Gestão de Licitações e Operações de Buffet](https://github.com/samuelescoval-tech/sglb-buffet-management-system) | Projeto de prototipagem desenvolvido na Cruzeiro do Sul, voltado para organização de processos, documentação e estruturação de solução. |
+| [Karamu — App Cardápio IA](https://github.com/samuelescoval-tech/app-cardapio-ia) | Aplicação web para planejar eventos, gerar cardápios com IA, calcular compras e exportar PDF. |
+
+---
+
+## Estudos e investigações técnicas
+
+* [**Baixa Latência em Streaming Esportivo**](https://github.com/samuelescoval-tech/baixa-latencia-streaming-esportivo)  
+  Estudo técnico usando lógica de investigação e abordagem inspirada em melhoria contínua para analisar atraso em transmissões ao vivo.
+
 ---
 
 ## Sobre mim
@@ -42,36 +64,6 @@ Minha ideia é transformar estudo em prática: aprender, aplicar, documentar e e
 * APIs
 * Automação de processos
 * Inteligência Artificial
-
----
-
-## Projetos em destaque
-
-| Projeto | Resumo |
-| --- | --- |
-| [SGLB — Sistema de Gestão de Licitações e Operações de Buffet](https://github.com/samuelescoval-tech/sglb-buffet-management-system) | Projeto acadêmico de prototipagem voltado para organização de processos, documentação e estruturação de solução. |
-| [Karamu — App Cardápio IA](https://github.com/samuelescoval-tech/app-cardapio-ia) | Aplicação web para planejar eventos, gerar cardápios com IA, calcular compras e exportar PDF. |
-
-## Estudos e investigações técnicas
-
-* [**Baixa Latência em Streaming Esportivo**](https://github.com/samuelescoval-tech/baixa-latencia-streaming-esportivo)  
-  Estudo técnico usando lógica de investigação e abordagem inspirada em melhoria contínua para analisar atraso em transmissões ao vivo.
-
-## Formação e projetos acadêmicos
-
-* [**Atividades de Programação em Python — Cruzeiro do Sul**](https://github.com/samuelescoval-tech/cruzeiro-programacao-python)  
-  Projetos desenvolvidos durante a disciplina de Programação de Computadores, com foco em lógica, estruturas de dados, funções, orientação a objetos e testes unitários.
-
-## Desafios DIO
-
-* [**RPG do Herói**](https://github.com/samuelescoval-tech/Dio-rpg-do-heroi)  
-  Desafio de lógica de programação desenvolvido em JavaScript.
-* [**Calculadora de Partidas Rankeadas**](https://github.com/samuelescoval-tech/dio-calculadora-partidas-rankeadas-Desafio2-logica-programacao)  
-  Desafio com foco em funções, estruturas condicionais e cálculo de ranking.
-* [**Classe Herói em JavaScript**](https://github.com/samuelescoval-tech/dio-desafio-classe-heroi-js)  
-  Prática com classes, objetos, construtor, métodos e estruturas de decisão.
-* [**GitHub e Markdown**](https://github.com/samuelescoval-tech/desafio-github-markedown)  
-  Prática de Markdown e HTML em uma apresentação com tema Pokémon.
 
 ---
 
