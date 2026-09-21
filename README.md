@@ -14,6 +14,20 @@
 
 ---
 
+## 📊 Minhas Atividades e Estatísticas
+Aqui você pode acompanhar o meu ritmo de estudos, commits e tecnologias mais utilizadas em tempo real:
+
+<p align="center">
+  <img height="180" src="https://vercel.app" />
+  <img height="180" src="https://vercel.app" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
+
+---
+
 ## Projetos em destaque
 
 | Projeto | Resumo |
