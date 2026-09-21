@@ -24,7 +24,7 @@
     <ul>
       <li><b>DIO:</b> Resolução de desafios de lógica e versionamento de código no repositório dedicado.</li>
       <li><b>Cruzeiro do Sul:</b> Modelagem de dados e documentação do sistema de gestão SGLB.</li>
-      <li><b>UNIVESP:</b> Exercícios de Engenharia e fundamentos de computação aplicados.</li>
+      <li><b>UNIVESP:</b> Cacarregando</li>
     </ul>
   </blockquote>
 
