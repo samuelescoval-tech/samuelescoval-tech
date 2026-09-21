@@ -14,17 +14,6 @@
 
 ---
 
-## 📊 Minhas Atividades e Estatísticas
-Aqui você pode acompanhar o meu ritmo de estudos, commits e tecnologias mais utilizadas em tempo real:
-
-<p align="center">
-  <img src="https://shields.io" alt="GitHub Followers" />
-  <img src="https://shields.io" alt="GitHub Stars" />
-  <img src="https://shields.io" alt="Repo Size" />
-</p>
-
----
-
 ## Projetos em destaque
 
 | Projeto | Resumo |
