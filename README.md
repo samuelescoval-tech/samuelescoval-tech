@@ -14,6 +14,32 @@
 
 ---
 
+## 📊 Quadro de Atividades e Histórico de Estudos
+
+<details open>
+  <summary><b>🛠️ Registro de Commits e Evolução Técnica (Clique para abrir/fechar)</b></summary>
+  <br />
+  <blockquote>
+    📅 <b>Últimas Atividades Acadêmicas e Práticas:</b>
+    <ul>
+      <li><b>DIO:</b> Resolução de desafios de lógica e versionamento de código no repositório dedicado.</li>
+      <li><b>Cruzeiro do Sul:</b> Modelagem de dados e documentação do sistema de gestão SGLB.</li>
+      <li><b>UNIVESP:</b> Exercícios de Engenharia e fundamentos de computação aplicados.</li>
+    </ul>
+  </blockquote>
+
+  <blockquote>
+    🚀 <b>Métricas de Desenvolvimento Pessoal:</b>
+    <pre>
+📈 Foco Atual     : Backend (Python), APIs e Bancos de Dados
+💻 Versionamento   : Padrão Git Flow e commits bem documentados
+🧠 Próximos Passos: Integração de Inteligência Artificial e Automações
+    </pre>
+  </blockquote>
+</details>
+
+---
+
 ## Projetos em destaque
 
 | Projeto | Resumo |
